@@ -1,0 +1,14 @@
+<body style="background-color:#F8F8FF;">
+</body>
+
+<img scr="imagenes/bforest.png" alt="">
+
+<div style="width:px;height:2px; background-color:Black;border-radius: 20px;">
+</div>
+<h1 style="text-align:left;font-size:100px;font-family:Serif">Lab25</h1> 
+
+<div style="width:px;height:130px;
+ background-color:white;border-radius:20px;font-size:14px">
+ > <p>¡Bienvenido!</p> Esta página se creo con la finalidad de 
+albergar los materiales relacionados al curso ACA-II para el perdiodo 2023-I
+</div>
